@@ -1,17 +1,16 @@
 ---
-    header-title: Transferleistung 1
-    title: Optimierung der Build-Dauer eines Web Application Bundler durch Anpassung der Konfiguration und dessen Auswirkung auf den Entwicklungsprozess
+    header-title: AI Ethics
+    title: Erforschungsgrad der Ethischen Fragen zu Künstlicher Intelligenz
+    author: Patrick Sabrowski \and Til Blechschmidt
 
-    author: Max Mustermann
-    Zenturie: A22f
-    Studiengang: Angewandte Informatik
-    Matrikelnummer: 1337
-
-    keywords: [keyword1, keyword2]
+    toc: false
+    Deckblatt: false
     
     # This can be replaced with any valid bibliography file (.yaml, .json, .bib)
-    bibliography: src/bibliography.yaml
+    bibliography: src/bibliography.json
 ---
+
+\maketitle
 
 # Possent ventis hanc delubra (+CPU)
 

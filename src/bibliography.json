@@ -1,0 +1,176 @@
+[
+  {
+    "author": [
+      {
+        "family": "Levinson",
+        "given": "J."
+      },
+      {
+        "family": "Askeland",
+        "given": "J."
+      },
+      {
+        "family": "Becker",
+        "given": "J."
+      },
+      {
+        "family": "Dolson",
+        "given": "J."
+      },
+      {
+        "family": "Held",
+        "given": "D."
+      },
+      {
+        "family": "Kammel",
+        "given": "S."
+      },
+      {
+        "family": "Kolter",
+        "given": "J. Z."
+      },
+      {
+        "family": "Langer",
+        "given": "D."
+      },
+      {
+        "family": "Pink",
+        "given": "O."
+      },
+      {
+        "family": "Pratt",
+        "given": "V."
+      },
+      {
+        "family": "Sokolsky",
+        "given": "M."
+      },
+      {
+        "family": "Stanek",
+        "given": "G."
+      },
+      {
+        "family": "Stavens",
+        "given": "D."
+      },
+      {
+        "family": "Teichman",
+        "given": "A."
+      },
+      {
+        "family": "Werling",
+        "given": "M."
+      },
+      {
+        "family": "Thrun",
+        "given": "S."
+      }
+    ],
+    "container-title": "2011 ieee intelligent vehicles symposium (iv)",
+    "id": "towardsFullyAutonomousDriving",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "163-168",
+    "title": "Towards fully autonomous driving: Systems and algorithms",
+    "title-short": "Towards fully autonomous driving",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Chen",
+        "given": "Chenyi"
+      },
+      {
+        "family": "Seff",
+        "given": "Ari"
+      },
+      {
+        "family": "Kornhauser",
+        "given": "Alain"
+      },
+      {
+        "family": "Xiao",
+        "given": "Jianxiong"
+      }
+    ],
+    "container-title": "Proceedings of the ieee international conference on computer vision (iccv)",
+    "id": "deepDriving",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "title": "DeepDriving: Learning affordance for direct perception in autonomous driving",
+    "title-short": "DeepDriving",
+    "type": "paper-conference"
+  },
+  {
+    "URL": "https://github.blog/2020-01-22-how-we-built-good-first-issues/",
+    "author": [
+      {
+        "family": "Gazit",
+        "given": "Tiferet"
+      }
+    ],
+    "container-title": "The GitHub Blog",
+    "id": "githubFirstIssues",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          13
+        ]
+      ]
+    },
+    "publisher": "GitHub",
+    "title": "Behind good first issues",
+    "type": "webpage"
+  },
+  {
+    "URL": "ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/",
+    "author": [
+      {
+        "family": "Medvedev",
+        "given": "Ivan"
+      }
+    ],
+    "id": "instagramAIRecommendation",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          11
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          13
+        ]
+      ]
+    },
+    "publisher": "Facebook AI",
+    "title": "Powered by AI: Instagram’s Explore Recommender System",
+    "type": "webpage"
+  }
+]
