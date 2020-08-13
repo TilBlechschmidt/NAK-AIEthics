@@ -1,6 +1,7 @@
 # Methodik
+
 Zunächst wurden willkürlich Beispielhafte fragen gewählt. Dabei ist beabsichtigt, möglichst viele von KI berührte Themengebiete zu berücksichtigen.
-Zu diesen Fragen wurden jeweils englischsprachige Suchbegriffe definiert, mit denen wir Quellen in Digitalen Online Suchsoftwares (gelistet in @searchResults) suchen. Dabei wurde ein fokus auf Suchtools zum Finden Digitaler Quellen gelergt. Dies soll dazu beitragen, dass hauptsächlich Wissenschaftliche und damit besser fundierte Quellen gefunden wurden.
+Zu diesen Fragen wurden jeweils englischsprachige Suchbegriffe definiert, mit denen wir Quellen in Digitalen Online Suchsoftwares (gelistet in +@tbl:searchResults) suchen. Dabei wurde ein fokus auf Suchtools zum Finden Digitaler Quellen gelergt. Dies soll dazu beitragen, dass hauptsächlich Wissenschaftliche und damit besser fundierte Quellen gefunden wurden.
 
 Diese ersten Zehn Quellen jeder Suchmaschine wurden zunächst grob anhand von Titel und Abstract in ihrer Relevanz zum Thema eingeschätzt, Quellen die Hierbei Als Relevant eingeschätz werden, werden danach gelesen und auf Wissenschaftliche Fundiertheit, neutralität, relevanz und klarheit der Ergebnisse beurteilt.
 Wenn es mehrere Relevante Ergebnisse gibt, wird zusätzlich noch beurteilt, wie nah deren Ergebnisse aneinander sind.

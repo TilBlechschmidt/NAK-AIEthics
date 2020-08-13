@@ -1,5 +1,5 @@
 ---
-    header-title: AI Ethics
+    header-title: Positionspapier — Nordakademie, Kurs A115
     title: Erforschungsgrad der Ethischen Fragen zu Künstlicher Intelligenz
     author: Patrick Sabrowski \and Til Blechschmidt
 
