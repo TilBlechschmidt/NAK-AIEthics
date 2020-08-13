@@ -172,5 +172,56 @@
     "publisher": "Facebook AI",
     "title": "Powered by AI: Instagram’s Explore Recommender System",
     "type": "webpage"
+  },
+  {
+    "author": [
+      {
+        "family": "Buchanan",
+        "given": "Bruce G"
+      }
+    ],
+    "container-title": "Ai Magazine",
+    "id": "earlyAIHistory",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "53-53",
+    "title": "A (very) brief history of artificial intelligence",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "given": "Statista"
+      }
+    ],
+    "title": "Market size and revenue comparison for artificial intelligence worldwide from 2015 to 2025 (in billion U.S. dollars)",
+    "type": "webpage",
+    "id": "aiGrowth",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          13
+        ]
+      ]
+    },
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          12
+        ]
+      ]
+    },
+    "URL": "https://www.statista.com/statistics/941835/artificial-intelligence-market-size-revenue-comparisons/"
   }
 ]
