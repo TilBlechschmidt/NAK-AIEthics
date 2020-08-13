@@ -223,5 +223,31 @@
       ]
     },
     "URL": "https://www.statista.com/statistics/941835/artificial-intelligence-market-size-revenue-comparisons/"
+  },
+  {
+    "author": [
+      {
+        "family": "Sanders",
+        "given": "D."
+      },
+      {
+        "family": "Gegov",
+        "given": "A."
+      }
+    ],
+    "container Automatisation": "Assembly Automation",
+    "id": "aiToolsFoUseInAssemblyAutomationAndSomeExamplesOfRecentApplication",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "184-194",
+    "title": "AI tools for use in assembly automation and some examples of recent applications",
+    "type": "article-journal",
+    "volume": 33,
+    "issue": 2
   }
 ]
