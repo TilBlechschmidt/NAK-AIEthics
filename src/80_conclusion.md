@@ -1,4 +1,4 @@
-\section{Resümee}
+# Resümee
 Die Fragestellungen TODO sind schon erforscht worden, und es wurden klare Handlungsempfehlungen oder Leitlinien erarbeitetet, sie können daher unter verwendung entsprechender quellen Fundiert Ethisch vertretbar eingesetzt werden.
 
 Die Fragestellungen TODO sind bereits erforscht, jedoch waren die Arbeiten Ambivalent in ihren Schlussfolgerungen und Handlungsempfehlungen - weshalb sich zwar informiert, aber nicht eindeutig ethisch vertretbar eingesetzt werden können.

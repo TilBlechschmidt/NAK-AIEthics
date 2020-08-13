@@ -1,6 +1,6 @@
 \pagebreak
 \pagenumbering{roman}
-\setcounter{page}{4}
+\setcounter{page}{1}
 
 \section*{Literaturverzeichnis}
 \addcontentsline{toc}{section}{Literaturverzeichnis}
@@ -15,4 +15,3 @@
 
 ## Abbildungen
 
-Hier gehören Abbildungen hin, die nicht in den Hauptteil passen!
