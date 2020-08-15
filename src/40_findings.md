@@ -17,11 +17,11 @@ Gabriel Murray hingegen Verlangt, das eine Superintelligenz nach Stoischen Werte
 Beide Werte kommen bis auf Gerechtigkeit in den ergebnissen von Jbin, Ienca und Vayena nicht vor, was Zeigt, dass es zwar Lösungsansätze gibt, diese jedoch nicht eindeutig sind.
 
 ## Autonome Fahrzeuge
-Mit 36 Relevanten Suchergebnissen ist das Trolleyproblem im Allgemeinen und im Kontext autonomen Fahrens bereits ausführlich untersucht. Von diesen Quellen 32 Wissenschaftlich, ebenfalls 32 befassen sich mit Konkreten Szenarien, unf immrthin 17 Schlagen Konkrete Regeln vor. Die Mehrheit der Quellen die eine Konkrete Lösung vorschlagen beschreibt, die Entscheidungen, die Menschen Treffen würden (ohne eine Besonderes Augenmerk auf Ethische Vorbildung.). TODO find die eine QUelle, die nicht reinpasste.
+Mit 36 Relevanten Suchergebnissen ist das Trolleyproblem im Allgemeinen und im Kontext autonomen Fahrens bereits ausführlich untersucht. Von diesen Quellen 32 Wissenschaftlich, ebenfalls 32 befassen sich mit Konkreten Szenarien, unf immrthin 17 Schlagen Konkrete Regeln vor. Die Mehrheit der Quellen die eine Konkrete Lösung vorschlagen beschreibt, die Entscheidungen, die Menschen Treffen würden (ohne eine Besonderes Augenmerk auf Ethische Vorbildung.).
 
-- [Cite this](https://robots.law.miami.edu/2019/wp-content/uploads/2019/03/MoralMachineMonster.pdf)
-  - Only human behaviour copied but no philosophical decision making process
+Dieser Ansatz wird jedoch angefochten, da er lediglich Menschliches Verhalten im Kleinen Rahmen untersucht, jedoch sind die Testpersonen nicht Ethisch tiefer ausgebildet, sodass man zwar einen Moralischen Kompromiss findet, aber keine Ethisch Fundierte Postion bildet. Ausserdem sind etscheidungen die im Kleinen Rahmen Ethisch gut sind nicht immer Global reinpasst. [Cite this](https://robots.law.miami.edu/2019/wp-content/uploads/2019/03/MoralMachineMonster.pdf)
 
+Eine Ausnahme vonn diesem Lösungsansatz, bildet hier [Cite this](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303672), die sich dafür ausspricht bekannte Systeme zur Schadens und Risikoverteilung, wie Medikamentenrationierung, Organspende, Wehrdiensteinteilung.
 
 ## Wirtschaft bei Erhöhter Automatisierung
 Zu den Fragen von Arbeitsplatz verschwinden durch Automatisierung gab es 5 relevante Quellen. davon waren 3 wissenschaftlich, 2 lösungsorientiert, und 1 Konkret. Diese einzige Konkrete Quelle von ... empfielt eine Kombination aus Umscchulung hin zu Sozialen und Kreativen Tätigkeiten in kombination mit einer gerechten Verteilung der Gewinne von AI und einer Besseren Erforschung der Wirkung von Grundeinkommen als ein Mögliches Mittel.
