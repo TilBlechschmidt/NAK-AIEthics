@@ -251,6 +251,57 @@
     "issue": 2
   },
   {
+    "author": [
+      {
+        "family": "Metzinger",
+        "given": "Thomas"
+      }
+    ],
+    "container-title": "Should we fear artificial intelligence",
+    "id": "artificialIntelligenceCharter",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "27-33",
+    "title": "Towards a global artificial intelligence charter",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.5840/monist197659224",
+    "URL": "https://doi.org/10.5840/monist197659224",
+    "author": [
+      {
+        "family": "and",
+        "given": "Judith Jarvis Thomson"
+      }
+    ],
+    "container-title": "Monist",
+    "editor": [
+      {
+        "family": "Sugden",
+        "given": "Sherwood J. B."
+      }
+    ],
+    "id": "trolleyProblemOxford",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "page": "204-217",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Killing, letting die, and the trolley problem",
+    "type": "article-journal",
+    "volume": "59"
+  },
+  {
     "DOI": "10.1038/s42256-019-0088-2",
     "URL": "https://doi.org/10.1038/s42256-019-0088-2",
     "author": [
@@ -279,29 +330,90 @@
       ]
     },
     "page": "389-399",
-    "publisher": "Springer Science; Business Media LLC",
+    "publisher": "Springer Science and Business Media LLC",
     "title": "The global landscape of AI ethics guidelines",
     "type": "article-journal",
     "volume": "1"
   },
   {
+    "ISBN": "978-3-319-57351-9",
+    "abstract": "We present a position paper advocating the notion that Stoic philosophy and ethics can inform the development of ethical A.I. systems. This is in sharp contrast to most work on building ethical A.I., which has focused on Utilitarian or Deontological ethical theories. We relate ethical A.I. to several core Stoic notions, including the dichotomy of control, the four cardinal virtues, the ideal Sage, Stoic practices, and Stoic perspectives on emotion or affect. More generally, we put forward an ethical view of A.I. that focuses more on internal states of the artificial agent rather than on external actions of the agent. We provide examples relating to near-term A.I. systems as well as hypothetical superintelligent agents.",
     "author": [
       {
-        "family": "Metzinger",
-        "given": "Thomas"
+        "family": "Murray",
+        "given": "Gabriel"
       }
     ],
-    "container-title": "Should we fear artificial intelligence",
-    "id": "artificialIntelligenceCharter",
+    "container-title": "Advances in artificial intelligence",
+    "editor": [
+      {
+        "family": "Mouhoub",
+        "given": "Malek"
+      },
+      {
+        "family": "Langlais",
+        "given": "Philippe"
+      }
+    ],
+    "id": "stoicEthics",
     "issued": {
       "date-parts": [
         [
-          2018
+          2017
         ]
       ]
     },
-    "page": "27-33",
-    "title": "Towards a global artificial intelligence charter",
-    "type": "article-journal"
+    "page": "373-384",
+    "publisher": "Springer International Publishing",
+    "publisher-place": "Cham",
+    "title": "Stoic ethics for artificial agents",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Jaques",
+        "given": "Abby Everett"
+      }
+    ],
+    "container-title": "University of Miami School of Law",
+    "id": "moralMachineMonster",
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Why the moral machine is a monster",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "DOI": "10.2105/ajph.2017.303672",
+    "URL": "https://doi.org/10.2105/ajph.2017.303672",
+    "author": [
+      {
+        "family": "Goodall",
+        "given": "Noah J."
+      }
+    ],
+    "container-title": "American Journal of Public Health",
+    "id": "trolleyToRisk",
+    "issue": "4",
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          4
+        ]
+      ]
+    },
+    "page": "496-496",
+    "publisher": "American Public Health Association",
+    "title": "From trolleys to risk: Models for ethical autonomous driving",
+    "title-short": "From trolleys to risk",
+    "type": "article-journal",
+    "volume": "107"
   }
 ]

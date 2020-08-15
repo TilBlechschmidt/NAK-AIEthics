@@ -1,6 +1,9 @@
-# Ergebnisse
-## Singularität
-Singularität ist ein Thema, an dem schon einiges geforscht wurde. 17 von 90 Suchergebnissen sin relevant für die formulierten Fragen. Alle Quellen sind Wissenschaftlich, immerhin 5 sind Konkret, und 6 beschreiben eine antwort auf die Frage. 2 geben sogar Konkrete Antworten auf die Frage. jedoch kommen die zu weit unterschiedlichen Ergebnissen.    Anna Jobin, Marcello Ienca und Effy Vayena  Haben Hierbei gemeinsam einen Kathalog von Werten, die eine Singularität laut unwissenschaftlichen Quellen und Meinungsbekundungen erfüllen soll gesammelt.:
+## Recherche
+
+### Singularität {-}
+
+Singularität ist ein Thema, an dem schon einiges geforscht wurde. 17 von 90 Suchergebnissen sin relevant für die formulierten Fragen. Alle Quellen sind Wissenschaftlich, immerhin 5 sind Konkret, und 6 beschreiben eine antwort auf die Frage. 2 geben sogar Konkrete Antworten auf die Frage. jedoch kommen die zu weit unterschiedlichen Ergebnissen.    Anna Jobin, Marcello Ienca und Effy Vayena  Haben Hierbei gemeinsam einen Kathalog von Werten, die eine Singularität laut unwissenschaftlichen Quellen und Meinungsbekundungen erfüllen soll gesammelt [@natureMachineIntelligence]:
+
 * Transparenz
 * Gerechtigkeit
 * Nichtschädlichkeit
@@ -11,32 +14,36 @@ Singularität ist ein Thema, an dem schon einiges geforscht wurde. 17 von 90 Suc
 * Nachhaltigkeit
 * Menschenwürde
 * Solidarität
-TODO CITE https://www.nature.com/articles/s42256-019-0088-2#Sec3
 
-Gabriel Murray hingegen Verlangt, das eine Superintelligenz nach Stoischen Werten handeln sollen. Der Fokus liegt auf Weisheit, Gerechtigkeit und Mäßigung. TODO CITE https://link.springer.com/chapter/10.1007/978-3-319-57351-9_42
-Beide Werte kommen bis auf Gerechtigkeit in den ergebnissen von Jbin, Ienca und Vayena nicht vor, was Zeigt, dass es zwar Lösungsansätze gibt, diese jedoch nicht eindeutig sind.
+Gabriel Murray hingegen Verlangt, das eine Superintelligenz nach Stoischen Werten handeln sollen. Der Fokus liegt auf Weisheit, Gerechtigkeit und Mäßigung [@stoicEthics]. Beide Werte kommen bis auf Gerechtigkeit in den ergebnissen von Jbin, Ienca und Vayena nicht vor, was Zeigt, dass es zwar Lösungsansätze gibt, diese jedoch nicht eindeutig sind.
 
-## Autonome Fahrzeuge
+### Autonome Fahrzeuge {-}
+
 Mit 36 Relevanten Suchergebnissen ist das Trolleyproblem im Allgemeinen und im Kontext autonomen Fahrens bereits ausführlich untersucht. Von diesen Quellen 32 Wissenschaftlich, ebenfalls 32 befassen sich mit Konkreten Szenarien, unf immrthin 17 Schlagen Konkrete Regeln vor. Die Mehrheit der Quellen die eine Konkrete Lösung vorschlagen beschreibt, die Entscheidungen, die Menschen Treffen würden (ohne eine Besonderes Augenmerk auf Ethische Vorbildung.).
 
-Dieser Ansatz wird jedoch angefochten, da er lediglich Menschliches Verhalten im Kleinen Rahmen untersucht, jedoch sind die Testpersonen nicht Ethisch tiefer ausgebildet, sodass man zwar einen Moralischen Kompromiss findet, aber keine Ethisch Fundierte Postion bildet. Ausserdem sind etscheidungen die im Kleinen Rahmen Ethisch gut sind nicht immer Global reinpasst. [Cite this](https://robots.law.miami.edu/2019/wp-content/uploads/2019/03/MoralMachineMonster.pdf)
+Dieser Ansatz wird jedoch angefochten, da er lediglich Menschliches Verhalten im Kleinen Rahmen untersucht, jedoch sind die Testpersonen nicht Ethisch tiefer ausgebildet, sodass man zwar einen Moralischen Kompromiss findet, aber keine Ethisch Fundierte Postion bildet. Ausserdem sind etscheidungen die im Kleinen Rahmen Ethisch gut sind nicht immer Global reinpasst [@moralMachineMonster].
 
-Eine Ausnahme vonn diesem Lösungsansatz, bildet hier [Cite this](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303672), die sich dafür ausspricht bekannte Systeme zur Schadens und Risikoverteilung, wie Medikamentenrationierung, Organspende, Wehrdiensteinteilung.
+Eine Ausnahme vonn diesem Lösungsansatz, bildet hier [@trolleyToRisk], die sich dafür ausspricht bekannte Systeme zur Schadens und Risikoverteilung, wie Medikamentenrationierung, Organspende, Wehrdiensteinteilung.
 
-## Wirtschaft bei Erhöhter Automatisierung
+### Wirtschaft bei Erhöhter Automatisierung {-}
+
 Zu den Fragen von Arbeitsplatz verschwinden durch Automatisierung gab es 5 relevante Quellen. davon waren 3 wissenschaftlich, 2 lösungsorientiert, und 1 Konkret. Diese einzige Konkrete Quelle von ... empfielt eine Kombination aus Umscchulung hin zu Sozialen und Kreativen Tätigkeiten in kombination mit einer gerechten Verteilung der Gewinne von AI und einer Besseren Erforschung der Wirkung von Grundeinkommen als ein Mögliches Mittel.
 
 Hier existiert nach rechersche eine Klare, wenn auch mangels erforschung nicht durch breiten Konses gestützte Position, was Ethisch korrekt ist.
 
-## Urheberrecht
+### Urheberrecht {-}
+
 Zu den Fragen nach Urheberrecht an KI und KI erzeugnissen gibt es 9 relevante Quellen, davon sind jedoch 7 weitere nicht ohne weiteres Zugänglich. Die Beiden Zugänglichen beschreiben zwar Konkret und SPezifisch das Aufgezeigte Problem und weitere Probleme, schlagen aber keine Lösungen Vor.
 
 von den nicht Kostenfrei Verfügaren geben immerhin zwei Qullen in ihren Abstracts an, dass sie Lösungen vorschlagen. Diese auf Qualität und Begründung zu untersuchen übersteigt jedoch Finanziell den Umfang der Arbeit.
 
-## Geeignete Recherschewege
+## Sonstige Erkenntnisse
+
+### Geeignete Recherschewege {-}
+
 Die Qualität und Menge der Ergebnisse hing wesentlich von den verwendeten Suchmaschienen und Suchbegriffen ab. Die Suchbegriffe für Fragestellungen aus KI und Ethik für jede Frage unterschiedlich sind, ist vorallem der Vergleich verschiedener Suchmaschienen Relevant.
 
-| Suchmaschiene  | Relevante Ergebnisse | Relevante wissenschaftliche Ergebnisse | Relevante frei verfügbare Ergebnisse | Relevante Konkrete Ergebnisse | Relevante Lösungsorientierte Ergebnisse |
+|                | Relevante Ergebnisse | Relevante wissenschaftliche Ergebnisse | Relevante frei verfügbare Ergebnisse | Relevante Konkrete Ergebnisse | Relevante Lösungsorientierte Ergebnisse |
 |:---------------|---------------------:|---------------------------------------:|-------------------------------------:|------------------------------:|----------------------------------------:|
 | ACM Digital    |                   17 |                                     15 |                                   17 |                            12 |                                       6 |
 | Springer Link  |                    8 |                                      6 |                                    8 |                             7 |                                       3 |
@@ -46,8 +53,10 @@ Table: Ergebnisqualität nach Datenbank {#tbl:resultQualityByDatabase}
 
 aus diesen Ergebnissen lässt sich ableiten, dass für die Such auf Fragen im Spannungsfeld zwischen Ethik und KI Google Schoolar besonders geeignet ist, aber auch ACM gute ergebnisse Liefert. Eine Suche bei Springerlink hat hingegen wesentlich schlechtere Aussichten Sinnvolle Ergebnisse zutage zu führen.
 
-## Art gefundener Informationen
+### Art gefundener Informationen {-}
+
 Die meisten gefundenen Quellen befassen sich großteils mit relativ Allgemeinen Fällen, insbesondere Lösungsorientierte Vorschläge entwickeln oft eher Grobe Zielvorstellungen als Spezifische Handlungsinformationen oder detailierte Fälle.
 
-## Erkenntnisse aus den als Irrelevant bewerteten Quellen
+### Erkenntnisse aus den als Irrelevant bewerteten Quellen {-}
+
 Während der Suche wurden viele Quellen Gefunden, die sich nur oder Hauptsächlich mit der Technologie von AI beschäftigen, obwohl viele Suchbegriffe explizit Ethik enthalten. Dies Zeigt, dass in der Bisherigen Entwicklung die Ethik immer hinter der Technik zutückgestellt wurde.
