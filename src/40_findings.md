@@ -36,11 +36,13 @@ von den nicht Kostenfrei Verfügaren geben immerhin zwei Qullen in ihren Abstrac
 ## Geeignete Recherschewege
 Die Qualität und Menge der Ergebnisse hing wesentlich von den verwendeten Suchmaschienen und Suchbegriffen ab. Die Suchbegriffe für Fragestellungen aus KI und Ethik für jede Frage unterschiedlich sind, ist vorallem der Vergleich verschiedener Suchmaschienen Relevant.
 
-|Suchmaschiene | Relevante Ergebnisse | Relevante wissenschaftliche Ergebnisse | Relevante frei verfügbare Ergebnisse | Relevante Konkrete Ergebnisse | Relevante Lösungsorientierte Ergebnisse |
-| :-- | --: | --: | --: | --: | --: |
-| ACM Digital | 17 | 15 | 17 | 12 | 6 |
-| Springer Link | 8 | 6 | 8 | 7 | 3 |
-| Google Scholar | 41 | 27 |  32 | 28 | 17 |
+| Suchmaschiene  | Relevante Ergebnisse | Relevante wissenschaftliche Ergebnisse | Relevante frei verfügbare Ergebnisse | Relevante Konkrete Ergebnisse | Relevante Lösungsorientierte Ergebnisse |
+|:---------------|---------------------:|---------------------------------------:|-------------------------------------:|------------------------------:|----------------------------------------:|
+| ACM Digital    |                   17 |                                     15 |                                   17 |                            12 |                                       6 |
+| Springer Link  |                    8 |                                      6 |                                    8 |                             7 |                                       3 |
+| Google Scholar |                   41 |                                     27 |                                   32 |                            28 |                                      17 |
+
+Table: Ergebnisqualität nach Datenbank {#tbl:resultQualityByDatabase}
 
 aus diesen Ergebnissen lässt sich ableiten, dass für die Such auf Fragen im Spannungsfeld zwischen Ethik und KI Google Schoolar besonders geeignet ist, aber auch ACM gute ergebnisse Liefert. Eine Suche bei Springerlink hat hingegen wesentlich schlechtere Aussichten Sinnvolle Ergebnisse zutage zu führen.
 
