@@ -19,6 +19,9 @@ Beide Werte kommen bis auf Gerechtigkeit in den ergebnissen von Jbin, Ienca und 
 ## Autonome Fahrzeuge
 Mit 36 Relevanten Suchergebnissen ist das Trolleyproblem im Allgemeinen und im Kontext autonomen Fahrens bereits ausführlich untersucht. Von diesen Quellen 32 Wissenschaftlich, ebenfalls 32 befassen sich mit Konkreten Szenarien, unf immrthin 17 Schlagen Konkrete Regeln vor. Die Mehrheit der Quellen die eine Konkrete Lösung vorschlagen beschreibt, die Entscheidungen, die Menschen Treffen würden (ohne eine Besonderes Augenmerk auf Ethische Vorbildung.). TODO find die eine QUelle, die nicht reinpasste.
 
+- [Cite this](https://robots.law.miami.edu/2019/wp-content/uploads/2019/03/MoralMachineMonster.pdf)
+  - Only human behaviour copied but no philosophical decision making process
+
 
 ## Wirtschaft bei Erhöhter Automatisierung
 Zu den Fragen von Arbeitsplatz verschwinden durch Automatisierung gab es 5 relevante Quellen. davon waren 3 wissenschaftlich, 2 lösungsorientiert, und 1 Konkret. Diese einzige Konkrete Quelle von ... empfielt eine Kombination aus Umscchulung hin zu Sozialen und Kreativen Tätigkeiten in kombination mit einer gerechten Verteilung der Gewinne von AI und einer Besseren Erforschung der Wirkung von Grundeinkommen als ein Mögliches Mittel.
@@ -40,3 +43,9 @@ Die Qualität und Menge der Ergebnisse hing wesentlich von den verwendeten Suchm
 | Google Scholar | 41 | 27 |  32 | 28 | 17 |
 
 aus diesen Ergebnissen lässt sich ableiten, dass für die Such auf Fragen im Spannungsfeld zwischen Ethik und KI Google Schoolar besonders geeignet ist, aber auch ACM gute ergebnisse Liefert. Eine Suche bei Springerlink hat hingegen wesentlich schlechtere Aussichten Sinnvolle Ergebnisse zutage zu führen.
+
+## Art gefundener Informationen
+Die meisten gefundenen Quellen befassen sich großteils mit relativ Allgemeinen Fällen, insbesondere Lösungsorientierte Vorschläge entwickeln oft eher Grobe Zielvorstellungen als Spezifische Handlungsinformationen oder detailierte Fälle.
+
+## Erkenntnisse aus den als Irrelevant bewerteten Quellen
+Während der Suche wurden viele Quellen Gefunden, die sich nur oder Hauptsächlich mit der Technologie von AI beschäftigen, obwohl viele Suchbegriffe explizit Ethik enthalten. Dies Zeigt, dass in der Bisherigen Entwicklung die Ethik immer hinter der Technik zutückgestellt wurde.

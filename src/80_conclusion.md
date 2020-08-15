@@ -1,11 +1,8 @@
 # Resümee
-Die Fragestellungen TODO sind schon erforscht worden, und es wurden klare Handlungsempfehlungen oder Leitlinien erarbeitetet, sie können daher unter verwendung entsprechender quellen Fundiert Ethisch vertretbar eingesetzt werden.
+Die einzige Tiefergehend erforschte Fragestellung unter den Stichproben die untersucht wurden ist die Frage nach Autonomen Fahren. Hierbei existiert das Zugrundeliegende Problem jedoch schon seit der Zeit vor dem Autonomen Fahren, und wurde bereits unabhängig von Autnomen Fahren 1980gern untersucht. [Cite this](https://www.pdcnet.org/monist/content/monist_1976_0059_0002_0204_0217) - also nur ein Problem, dass duch AI an wichtigkeit gewinnt. Alle Anderen Bereiche sind eher unzureichend erforscht.
 
-Die Fragestellungen TODO sind bereits erforscht, jedoch waren die Arbeiten Ambivalent in ihren Schlussfolgerungen und Handlungsempfehlungen - weshalb sich zwar informiert, aber nicht eindeutig ethisch vertretbar eingesetzt werden können.
+Daher kann der Entwickler von Künstlicher Intelligenz nicht auf ein Ethisches Fundament Aufbauen und ist dadurch gezwungen entscheidungen zu treffen, für die er meist mangels ethischer ausbildung nicht Spezialisiert ist, oder die ethischen Probleme unbeachtet zu lassen.
 
-Die Fragestellungen TODO sind nur noch nicht erforscht, daher können wir beim einsatz der Technologien TODO noch nicht begründet davon ausgehen, dass ihr einsatz legitim ist.
-
-Insgesamt ist die Erforschung der Themengebiete unvollständig und es muss noch wesentlich mehr an den Ethischen Fragestellungen geforscht werden, bevor wir alle möglichkeiten der KI sinnvoll einsetzen können.
-
+Um dies zu beheben ist es unabdingbar, der Ethischen Forschung an KI gesellschaftlich höhere Priorität einzuräumen.
 
 \pagebreak
