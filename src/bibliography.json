@@ -249,5 +249,59 @@
     "type": "article-journal",
     "volume": 33,
     "issue": 2
+  },
+  {
+    "DOI": "10.1038/s42256-019-0088-2",
+    "URL": "https://doi.org/10.1038/s42256-019-0088-2",
+    "author": [
+      {
+        "family": "Jobin",
+        "given": "Anna"
+      },
+      {
+        "family": "Ienca",
+        "given": "Marcello"
+      },
+      {
+        "family": "Vayena",
+        "given": "Effy"
+      }
+    ],
+    "container-title": "Nature Machine Intelligence",
+    "id": "natureMachineIntelligence",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          9
+        ]
+      ]
+    },
+    "page": "389-399",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "The global landscape of AI ethics guidelines",
+    "type": "article-journal",
+    "volume": "1"
+  },
+  {
+    "author": [
+      {
+        "family": "Metzinger",
+        "given": "Thomas"
+      }
+    ],
+    "container-title": "Should we fear artificial intelligence",
+    "id": "artificialIntelligenceCharter",
+    "issued": {
+      "date-parts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "27-33",
+    "title": "Towards a global artificial intelligence charter",
+    "type": "article-journal"
   }
 ]
