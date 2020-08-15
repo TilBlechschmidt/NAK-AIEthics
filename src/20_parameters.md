@@ -16,7 +16,7 @@ Mittels KI wird daran gearbeitet die autonome Steuerung von Fahrzeugen zu ermög
 
 Künstliche Intelligenz wird in vielen Bereichen eingesetzt um Prozesse zu automatisieren, wodurch viele Arbeitsplätze überflüssig werden. Dadurch wird die Möglichkeiten zur Erwerbstätigkeit eingeschrängt, wodurch die Arbeitslosigkeit steigt, sofern keine neuen Arbeitsplätze entstehen. Dies könnte wiederum dazu führen, dass die Gessellschaft stärker in arm und reich gespalten wird, was die ethische Frage aufwirft ob Stellen automatisiert werden sollten [@aiToolsFoUseInAssemblyAutomationAndSomeExamplesOfRecentApplication].
 
-### Urheberrecht & Deepfakes {- #sec:copyright}
+### Urheberrecht & (+Deepfake)s {- #sec:copyright}
 
 Das Urheberrecht gibt dem Verfasser eines Werkes von geistiger Schaffungshöhe das Recht über die Verwendung seines Werkes weitgehend zu bestimmen. Daher muss geklärt werden wie man feststellen kann, ob das Training einer KI Schaffungshöhe hat. Außerdem stellt sich die Frage wer der Urheber eines on KI erstellten Werkes ist.
 

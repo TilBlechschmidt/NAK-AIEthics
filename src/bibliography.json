@@ -415,5 +415,37 @@
     "title-short": "From trolleys to risk",
     "type": "article-journal",
     "volume": "107"
+  },
+  {
+    "author": [
+      {
+        "family": "Amerini",
+        "given": "Irene"
+      },
+      {
+        "family": "Galteri",
+        "given": "Leonardo"
+      },
+      {
+        "family": "Caldelli",
+        "given": "Roberto"
+      },
+      {
+        "family": "Del Bimbo",
+        "given": "Alberto"
+      }
+    ],
+    "container-title": "Proceedings of the ieee/cvf international conference on computer vision (iccv) workshops",
+    "id": "computerVisionConference",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          10
+        ]
+      ]
+    },
+    "title": "Deepfake video detection through optical flow based cnn",
+    "type": "paper-conference"
   }
 ]
