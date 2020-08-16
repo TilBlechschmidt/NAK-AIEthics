@@ -20,7 +20,7 @@ Mittels (+KI) wird daran gearbeitet die autonome Steuerung von Fahrzeugen zu erm
 
 Das Urheberrecht gibt dem Verfasser eines Werkes von geistiger Schöpfungshöhe das Recht über die Verwendung seines Werkes weitgehend zu bestimmen. Daher muss geklärt werden wie man feststellen kann, ob das Training einer (+KI) Werkhöhe hat. Außerdem stellt sich die Frage wer der Urheber eines von (+KI) erstellten Werkes ist.
 
-(+Deepfake)s sind mittels (+KI) erstellte Derivate von Videos. Die gängigste Anwendung ist das Ersetzen eines Gesichtes in einem Film durch ein Anderes. Dabei ist die Frage zu stellen, ob die Rechte über die Verwendung von Bildern seiner eigenen Person zu entscheiden auch für derartige erzeugte Versionen von Bildern von einem Anwendbar sein soll. Außerdem ist zu evaluieren, ob wir, wenn Videos als Beweismittel entfallen, andere Möglichkeiten zur Nachweisbarkeit von Vorgängen brauchen.
+(+Deepfake)s sind mittels (+KI) erstellte Derivate von Videos. Die gängigste Anwendung ist das Ersetzen eines Gesichtes in einem Film durch ein Anderes. Dabei ist die Frage zu stellen, ob die Rechte über die Verwendung von Bildern seiner eigenen Person zu entscheiden auch für derartige erzeugte Versionen von Bildern von einem Anwendbar sein soll.
 
 ## Festlegung der Suchparameter
 
