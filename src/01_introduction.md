@@ -13,11 +13,11 @@
 <!-- markdownlint-disable MD034 -->
 \author{
     Sabrowski, Patrick\\
-    \href{mailto:patrick.sabrowski@nordakademie.de}{\texttt{patrick.sabrowski@nordakademie.de}}\\
+    \href{mailto:patrick.sabrowski@nordakademie.de}{patrick.sabrowski@nordakademie.de}\\
     Nordakademie, Elmshorn
     \and
     Blechschmidt, Til\thanks{ORCID: \href{https://orcid.org/0000-0001-7075-4180}{0000-0001-7075-4180}}\\
-    \href{mailto:til@blechschmidt.de}{\texttt{til@blechschmidt.de}}\\
+    \href{mailto:til@blechschmidt.de}{til@blechschmidt.de}\\
     Nordakademie, Elmshorn
 }
 <!-- markdownlint-enable MD034 -->
@@ -34,8 +34,8 @@ Durch die Steigerung der Leistungsfähigkeit moderner Computersysteme und die ve
 
 <!-- Relevanz -->
 
-Wie in @fig:aiGrowth dargestellt ist erfährt der Marktsektor der künstlichen Intelligenz ein starkes Wachstum. Außerdem werden stark steigende Umsätze für die nächsten fünf Jahre prognostiziert. Diese zuhnehmende Nutzung macht es relevant zu untersuchen, ob die künstliche Intelligenz unter ethischen Gesichtspunkten überhaupt sinnvoll eingesetzt wird oder werden kann. Vorraussetzung für einen ethisch legitimen Einsatz künstlicher Intelligenz ist eine fundierte Untersuchung was ethischer Einsatz von KI ist und was nicht.
+Wie @fig:aiGrowth zeigt, erfährt der Marktsektor der künstlichen Intelligenz ein starkes Wachstum. Außerdem werden stark steigende Umsätze für die nächsten fünf Jahre prognostiziert. Diese zunehmende Nutzung macht es relevant zu untersuchen, ob die künstliche Intelligenz unter ethischen Gesichtspunkten überhaupt sinnvoll eingesetzt wird oder werden kann. Voraussetzung für einen ethisch legitimen Einsatz künstlicher Intelligenz ist eine fundierte Untersuchung was ethischer Einsatz von KI ist und was nicht.
 
 <!-- Themenabgrenzung -->
 
-Um nun festzustellen, ob der derzeitige Einsatz künstlicher Intelligenz ethisch sicher vertretbar ist, wird anhand von Beispielen untersucht werden, wie gut Quellen über die ethischen Implikationen verschieder Einsatzszenarien von künstlicher Intelligenz verfügbar sind.
+Um nun festzustellen, ob der derzeitige Einsatz künstlicher Intelligenz ethisch sicher vertretbar ist, wird anhand von Beispielen untersucht werden, wie gut Quellen über die ethischen Implikationen verschiedener Einsatzszenarien von künstlicher Intelligenz verfügbar sind.
