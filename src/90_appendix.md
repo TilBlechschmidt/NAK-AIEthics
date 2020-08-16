@@ -48,3 +48,7 @@ Table: Anzahl der Suchergebnisse pro Seite {#tbl:searchEngines}
 | Urheberrecht & Deepfakes                | AI Ownership ethics, Copyright AI result, Deepfake ethics      |
 
 Table: Suchbegriffe {#tbl:searchTerms}
+
+## Rohdaten
+
+Am Ende des Dokuments (nach dem Glossar) sind die gesammelten Rohdaten in Tabellenform angehängt. Diese sind zusätzlich unter [https://github.com/TilBlechschmidt/NAK-AIEthics/tree/master/search-data/csv](https://github.com/TilBlechschmidt/NAK-AIEthics/tree/master/search-data/csv) im CSV Format verfügbar.
