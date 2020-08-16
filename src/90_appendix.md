@@ -15,7 +15,7 @@
 
 ## Abbildungen
 
-![Wachstum des künstlicher Intelligenz Marktsektors [@aiGrowth]](src/images/aiGrowth.png){#fig:aiGrowth}
+![Wachstum des (+KI) Marktsektors [@aiGrowth]](src/images/aiGrowth.png){#fig:aiGrowth}
 
 ![Quellenlage zum Thema Singularität](src/images/graphs/SingularitySources.pdf){#fig:sourcesSingularity}
 

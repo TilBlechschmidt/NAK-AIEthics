@@ -447,5 +447,31 @@
     },
     "title": "Deepfake video detection through optical flow based cnn",
     "type": "paper-conference"
+  },
+  {
+    "DOI": "10.2478/jagi-2019-0002",
+    "URL": "https://doi.org/10.2478/jagi-2019-0002",
+    "author": [
+      {
+        "family": "Wang",
+        "given": "Pei"
+      }
+    ],
+    "container-title": "Journal of Artificial General Intelligence",
+    "id": "deepfakeDefinition",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          1
+        ]
+      ]
+    },
+    "page": "1-37",
+    "publisher": "Walter de Gruyter GmbH",
+    "title": "On defining artificial intelligence",
+    "type": "article-journal",
+    "volume": "10"
   }
 ]

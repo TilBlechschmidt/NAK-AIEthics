@@ -10,17 +10,17 @@ Eine technische Singularität ist eine Technologie, die so viel beherrscht, dass
 
 ### Autonome Fahrzeuge {- #sec:autonomousDriving}
 
-Mittels KI wird daran gearbeitet die autonome Steuerung von Fahrzeugen zu ermöglichen [@towardsFullyAutonomousDriving] [@deepDriving]. Da Computer Informationen signifikant schneller als Menschen verarbeiten eröffnet es neue Optionen der Schadensvermeidung. Während ein Mensch bei einem Unfall instinktiv reagiert, verschiebt sich die Problemstellung bei autonomen Fahrzeugen zu dem ethischen Dilemma welcher Schaden am ehesten in Kauf genommen wird.
+Mittels (+KI) wird daran gearbeitet die autonome Steuerung von Fahrzeugen zu ermöglichen [@towardsFullyAutonomousDriving] [@deepDriving]. Da Computer Informationen signifikant schneller als Menschen verarbeiten eröffnet es neue Optionen der Schadensvermeidung. Während ein Mensch bei einem Unfall instinktiv reagiert, verschiebt sich die Problemstellung bei autonomen Fahrzeugen zu dem ethischen Dilemma welcher Schaden am ehesten in Kauf genommen wird.
 
 ### Wirtschaft bei erhöhter Automatisierung {- #sec:automatisation}
 
-Künstliche Intelligenz wird in vielen Bereichen eingesetzt, um Prozesse zu automatisieren, wodurch Arbeitsplätze ersetzt werden. Dadurch wird die Möglichkeiten zur Erwerbstätigkeit eingeschränkt, was dazu führt, dass die Arbeitslosigkeit steigt. Dies könnte wiederum dazu führen, dass die Gesellschaft stärker in Arm und Reich gespalten wird, was die ethische Frage aufwirft ob Stellen automatisiert werden sollten [@aiToolsFoUseInAssemblyAutomationAndSomeExamplesOfRecentApplication].
+(+KI) wird in vielen Bereichen eingesetzt, um Prozesse zu automatisieren, wodurch Arbeitsplätze ersetzt werden. Dadurch wird die Möglichkeiten zur Erwerbstätigkeit eingeschränkt, was dazu führt, dass die Arbeitslosigkeit steigt. Dies könnte wiederum dazu führen, dass die Gesellschaft stärker in Arm und Reich gespalten wird, was die ethische Frage aufwirft ob Stellen automatisiert werden sollten [@aiToolsFoUseInAssemblyAutomationAndSomeExamplesOfRecentApplication].
 
 ### Urheberrecht & (+Deepfake)s {- #sec:copyright}
 
-Das Urheberrecht gibt dem Verfasser eines Werkes von geistiger Schöpfungshöhe das Recht über die Verwendung seines Werkes weitgehend zu bestimmen. Daher muss geklärt werden wie man feststellen kann, ob das Training einer KI Werkhöhe hat. Außerdem stellt sich die Frage wer der Urheber eines von KI erstellten Werkes ist.
+Das Urheberrecht gibt dem Verfasser eines Werkes von geistiger Schöpfungshöhe das Recht über die Verwendung seines Werkes weitgehend zu bestimmen. Daher muss geklärt werden wie man feststellen kann, ob das Training einer (+KI) Werkhöhe hat. Außerdem stellt sich die Frage wer der Urheber eines von (+KI) erstellten Werkes ist.
 
-Deepfakes sind mittels KI erstellte Derivate von Videos. Die gängigste Anwendung ist das Ersetzen eines Gesichtes in einem Film durch ein Anderes. Dabei ist die Frage zu stellen, ob die Rechte über die Verwendung von Bildern seiner eigenen Person zu entscheiden auch für derartige erzeugte Versionen von Bildern von einem Anwendbar sein soll. Außerdem ist zu evaluieren, ob wir, wenn Videos als Beweismittel entfallen, andere Möglichkeiten zur Nachweisbarkeit von Vorgängen brauchen.
+(+Deepfake)s sind mittels (+KI) erstellte Derivate von Videos. Die gängigste Anwendung ist das Ersetzen eines Gesichtes in einem Film durch ein Anderes. Dabei ist die Frage zu stellen, ob die Rechte über die Verwendung von Bildern seiner eigenen Person zu entscheiden auch für derartige erzeugte Versionen von Bildern von einem Anwendbar sein soll. Außerdem ist zu evaluieren, ob wir, wenn Videos als Beweismittel entfallen, andere Möglichkeiten zur Nachweisbarkeit von Vorgängen brauchen.
 
 ## Festlegung der Suchparameter
 
